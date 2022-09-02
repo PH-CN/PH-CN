@@ -6,7 +6,7 @@ Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas
 <br><br>
 Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca, para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
 
-Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube)
+Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube).
 <br><br>
 
 ### Redes Sociais:
@@ -19,9 +19,9 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
 ### Status:
 
 <section align="center">
-  <a href="https://github.com/WanderDinizVeloso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanderdinizveloso&show_icons=true&theme=highcontrast&count_private=true"/>   
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderdinizveloso&langs_count=10&theme=highcontrast&layout=compact"/>
+  <a href="https://github.com/PH-CN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-CN&show_icons=true&theme=highcontrast&count_private=true"/>   
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CN&langs_count=10&theme=highcontrast&layout=compact"/>
   </section>
 <br><br>
   
