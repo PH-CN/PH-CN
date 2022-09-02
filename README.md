@@ -6,7 +6,7 @@ Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas
 <br><br>
 Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca, para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
 
-Acabei de fazer dois projetos pessoais, visando testar minhas habilidades aprendidas até o momento! Quer dar uma olhada e me dar dicas para meu aprimoramento? Acesse: [My-Store-API](https://github.com/WanderDinizVeloso/My-Store-API) ou [coffee-shop-API](https://github.com/WanderDinizVeloso/coffee-shop-API)
+Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube)
 <br><br>
 
 ### Redes Sociais:
