@@ -12,7 +12,7 @@ Acabei de fazer dois projetos pessoais, visando testar minhas habilidades aprend
 ### Redes Sociais:
  
 <section align="center"> 
-  <a href="https://www.linkedin.com/in/wander-diniz-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrohcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
 <br><br>
 
