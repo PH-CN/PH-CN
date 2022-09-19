@@ -4,7 +4,7 @@
 
 Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas que gostam da mesma, o que me fez levar a atualmente estudar na Trybe, que é uma escola que te ensina a programar, a aprender, e a trabalhar. 
 <br><br>
-Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca, para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
+Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
 
 Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube).
 <hr></hr>
