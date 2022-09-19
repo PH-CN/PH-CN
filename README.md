@@ -14,7 +14,7 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
 <section align="center"> 
   <a href="https://www.linkedin.com/in/pedrohcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
-<br><br>
+<hr></hr>
 
 ### Status:
 
@@ -22,8 +22,8 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
   <a href="https://github.com/PH-CN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-CN&show_icons=true&theme=highcontrast&count_private=true"/>   
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CN&langs_count=10&theme=highcontrast&layout=compact"/>
-  </section>
-<br><br>
+</section>
+<hr></hr>
   
 ### Skills:
   
@@ -42,7 +42,6 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
    <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
   <br>CSS
   </td>
-  </td>
  </tr>
  
   <tr>
@@ -58,8 +57,6 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
   <td align="center" width="180">   
    <img align="center" alt="Hooks" height="60" width="60" src="https://img.icons8.com/office/480/000000/react.png"></img><br>Hooks
   </td>
-  </td>
- 
  </tr>
    
  <tr>
@@ -71,7 +68,6 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
   </td> 
   <td align="center" width="180">   
    <img align="center" alt="MongoDB" height="60" width="60" src="https://img.icons8.com/color/144/000000/mongodb.png"></img><br>MongoDB
-  </td>
   </td>
   <td align="center" width="180">   
    <img align="center" alt="MySQL" height="75" width="75" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"></img><br>MySQL
@@ -85,16 +81,18 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
 <td align="center" width="180">   
    <img align="center" alt="API REST" height="60" width="80" src="https://bitvoice.com.br/logon.png"></img><br>API REST
   </td>
-  </td>
   <td align="center" width="180">   
    <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub 
   </td>
-  </td>
   <td align="center" width="180">
    <img align="center" alt="heroku" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"></img><br>Heroku 
-     </td>
+  </td>
  </tr>
 </table>
-<br><br>
+<hr></hr>
 
+### Contato:
 
+<section align="center">
+ <h4>Email: pedrohcn02@gmail.com</h3>
+</section>
