@@ -9,14 +9,15 @@ Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca, pa
 Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube).
 <hr></hr>
 
-### Redes Sociais:
+### Contato:
  
 <section align="center"> 
-  <a href="https://www.linkedin.com/in/pedrohcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrohcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pedrohcn02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=White"></a>
 </section>
 <hr></hr>
 
-### Status:
+### Estatísticas:
 
 <section align="center">
   <a href="https://github.com/PH-CN">
@@ -25,7 +26,7 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
 </section>
 <hr></hr>
   
-### Skills:
+### Linguagens, ferramentas e habilidades:
   
 <table align="center">
  <tr>
@@ -90,9 +91,3 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
  </tr>
 </table>
 <hr></hr>
-
-### Contato:
-
-<section align="center">
- <h4>Email: pedrohcn02@gmail.com</h3>
-</section>
