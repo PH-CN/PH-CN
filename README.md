@@ -21,8 +21,8 @@ Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos ond
 
 <section align="center">
   <a href="https://github.com/PH-CN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PH-CN&show_icons=true&theme=highcontrast&count_private=true"/>   
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CN&langs_count=10&theme=highcontrast&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PH-CN&show_icons=true&theme=highcontrast&count_private=true"/>   
+  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PH-CN&langs_count=10&theme=highcontrast&layout=compact"/>
 </section>
 <hr></hr>
   
