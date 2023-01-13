@@ -6,7 +6,7 @@ Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas
 <br><br>
 Meu objetivo como desenvolvedor é não parar de adquirir conhecimento na área da tecnologia para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
 
-Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube).
+Se quiser dar uma olhada em meu projeto de orgulho, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube) (Feedbacks são sempre bem-vindos).
 <hr></hr>
 
 ### Contato:
