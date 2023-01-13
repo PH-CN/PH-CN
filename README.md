@@ -1,10 +1,10 @@
-<h2 align="center">Olá! Eu sou o Pedro!</h2>
+<h2 align="center">Olá, Eu sou o Pedro!</h2>
 
 ### Sobre mim:
 
-Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas que gostam da mesma, o que me fez levar a atualmente estudar na Trybe, que é uma escola que te ensina a programar, a aprender, e a trabalhar. 
+Tenho 20 anos, sou uma pessoa que cresceu sempre rodeada de tecnologia e pessoas que gostam dela, o que me fez desenvolver um carinho muito especial por ela também. Esse carinho me levou até a Trybe, que é uma escola que te ensina a aprender a como aprender, a trabalhar, e a como programar na prática com mais de 30 projetos, sendo que alguns deles são feitos em grupo adotando metodologias ágeis como Scrum e Kanban, onde me formei e me tornei um desenvolvedor full stack.
 <br><br>
-Meu objetivo como desenvolvedor é não parar de adquirir conhecimento nunca para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
+Meu objetivo como desenvolvedor é não parar de adquirir conhecimento na área da tecnologia para me tornar alguém com uma grande experiência Full Stack que possa guiar as pessoas que em algum momento se encontrarão perdidas, igual a mim antes de começar a estudar programação.
 
 Se quiser dar uma olhada em meu projeto de orgulho ou apenas me dizer pontos onde posso melhorar, acesse: [Project-Trybe-Futebol-Clube](https://github.com/PH-CN/Project-Trybe-Futebol-Clube).
 <hr></hr>
